@@ -115,7 +115,6 @@ class BaseModel:
         self.texture.repeat_x = False
         self.texture.repeat_y = False
 
-        print(self.ctx.max_anisotropy)
         #self.texture.anisotropy = 16
         if self.build_mipmaps: self.texture.build_mipmaps()
 
