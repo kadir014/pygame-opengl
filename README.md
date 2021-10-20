@@ -1,2 +1,2 @@
 # pygame-opengl
- OpenGL experiments with Pygame & ModernGL
+OpenGL experiments with Pygame & ModernGL
