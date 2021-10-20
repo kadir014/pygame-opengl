@@ -1,6 +1,6 @@
 # pygame-opengl
 OpenGL experiments with Pygame & ModernGL \
-![](https://raw.githubusercontent.com/kadir014/pygame-opengl/main/assets/_githubthumb01.png)
+![thumbnail](https://github.com/kadir014/pygame-opengl/blob/main/assets/_githubthumb01.png)
 
 ## TODO
 - [X] Skybox & Reflections
